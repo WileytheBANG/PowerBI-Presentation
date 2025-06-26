@@ -47,6 +47,11 @@ The data model follows a **star schema** with clearly defined dimensions and fac
 
 ## 📊 Dashboards  
 
+![Screenshot 2025-06-26 152152](https://github.com/user-attachments/assets/46852048-0356-4e31-be0b-4b6784846a35)
+![Screenshot 2025-06-26 152523](https://github.com/user-attachments/assets/8ca80f81-c491-489d-9b6e-749af9ead909)
+![Screenshot 2025-06-26 152544](https://github.com/user-attachments/assets/0744a969-d50e-4539-8242-50c2fa922c22)
+![Screenshot 2025-06-26 152557](https://github.com/user-attachments/assets/9642b1fa-ac79-40e7-b034-d998c73664cf)
+
 
 
 ---
